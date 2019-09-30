@@ -1,3 +1,8 @@
+# DEPRECATION NOTICE
+
+`elm-lint` has been deprecated in favor of [`elm-review`](https://package.elm-lang.org/packages/jfmengels/elm-review/latest/).
+To work with `elm-review`, this package has been republished under the name [`review-unused`](https://package.elm-lang.org/packages/jfmengels/review-unused/latest/).
+
 # lint-unused
 
 Provides [`elm-lint`](https://package.elm-lang.org/packages/jfmengels/elm-lint/latest/) rules to detect unused functions and types in your Elm files.
